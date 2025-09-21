@@ -1,3 +1,3 @@
 # Vibrational-Control-of-Complex-Networks
 
-Here you can find the MATLAB code that is used in this paper. The names indicate the corresponding code for each figure. 
+This repository contains the MATLAB code used in the paper. File names correspond to the figures presented.
